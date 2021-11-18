@@ -2,7 +2,7 @@
 
 ### Our Preferred Licenses
 
-- For software projects, we use xx
+- For software projects, we use MIT
 - For documentation projects, we use yy
 
 ### Acceptable Licenses
